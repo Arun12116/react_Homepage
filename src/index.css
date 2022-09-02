@@ -1,0 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+:root{
+  --light:#F8F9FA;
+  --dark:#212529;
+}
+section{
+  margin: 1rem;
+}
+body{
+  background-color: var(--light);
+
+}
+img{
+  width:12rem;
+  border-radius: 50%;
+  border: 5px solid var(--dark);
+
+}
+body h1,h2,h3,h4,h5,p,li{
+
+  margin: 5px;
+}
+a{
+  margin: 10px;
+}
